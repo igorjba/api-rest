@@ -1,4 +1,5 @@
 const database = {
+    instructorIdentifier: 3,
     instructors: [
         {
             id: 1,
